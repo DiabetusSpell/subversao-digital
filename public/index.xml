@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subversão Digital</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Subversão Digital</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 30 Aug 2024 23:28:51 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 30 Aug 2024 23:28:51 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>A página, ou o sítio web para os mais internautas mais antiquados, Subversão Digital é uma espécie de personal blog criado em 2024 por mim com o intuito de promover a descentralização da web, podendo também abordar outros temas, podendo estes serem paralelos ou não.</description>
+    </item>
+    <item>
+      <title>Primeira Publicação</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Fri, 30 Aug 2024 21:53:02 +0100</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>E quê oh reis, esta é a minha primeira publicação. Espero que curtem. 😊</description>
+    </item>
+  </channel>
+</rss>
