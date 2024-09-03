@@ -1,6 +1,7 @@
 +++
 title = 'Sobre'
 date = 2024-08-30T23:28:51+01:00
+author = "Spell"
 draft = false
 +++
 
